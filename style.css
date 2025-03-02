@@ -201,10 +201,10 @@ footer textarea {
         flex-direction: column;
     }
     nav > ul {
-        gap: 2rem;
+        gap: 20px;
     }
     .btn-primary {
-        margin-bottom: 1rem;
+        margin-bottom: 20px;
     }
     .banner {
         margin: 20px;
